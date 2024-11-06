@@ -1,0 +1,16 @@
+{
+    "name": "jury/first",
+    "description": "This is my first composer package",
+    "autoload": {
+        "psr-4": {
+            "Jury\\First\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Juroš",
+            "email": "martinjuros8@gmail.com"
+        }
+    ],
+    "require": {}
+}
