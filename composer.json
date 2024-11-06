@@ -2,6 +2,7 @@
     "name": "jury/first",
     "description": "This is my first composer package",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Jury\\First\\": "src/"
@@ -22,6 +23,5 @@
             "pestphp/pest-plugin": true
         },
         "sort-packages": true
-    },
-    "license": "MIT"
+    }
 }
